@@ -40,7 +40,6 @@ We use this protocol to make a routing architecture for the Faculty of Computer 
 ----------------------------------------------------
 We use this protocol to connect the routers of each respective faculties. With this protocol, these faculties can communicate with each other despite the different protocols that are used.
 
-<br><br>
 **_Implementation_**
 
 <img src="https://github.com/damahindra/Faculty-Networks/assets/105963394/560ef19d-8e87-4c22-ac41-68173804a855" width=50%/>
