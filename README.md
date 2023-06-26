@@ -44,9 +44,11 @@ We use this protocol to connect the routers of each respective faculties. With t
 
 <img src="https://github.com/damahindra/Faculty-Networks/assets/105963394/560ef19d-8e87-4c22-ac41-68173804a855" width=50%/>
 
+<br><br>
+**Full View of Project**
+---------------------------------------------------
 
-
-<img src="" width=50%/>
+<img src="https://github.com/damahindra/Faculty-Networks/assets/105963394/749861a8-b979-44df-bd93-89fe5026c8ff" width=50%/>
 
 
 
