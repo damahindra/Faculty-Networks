@@ -1,7 +1,7 @@
 # Faculty-Networks
 Final Project of Internet Architecture and Protocol subject at Brawijaya University's IT Major
 
-In this project, we are challenged to make a routing architecture for 3 faculties using 4 routing protocols : Static, OSPF (Open Shortest Path First), EIGRP (Enhanced Interior Gateway Routing Protocol), and BGP (Border Gateway Protocol).
+In this project, we are challenged to make a routing architecture for 3 faculties using 4 routing protocols : Static, OSPF (Open Shortest Path First), EIGRP (Enhanced Interior Gateway Routing Protocol), and BGP (Border Gateway Protocol) using Cisco Pakcet Tracer.
 
 **a) Static Routing Protocol**
 ----------------------------------------------------
